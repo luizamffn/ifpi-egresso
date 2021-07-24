@@ -1,0 +1,83 @@
+.imagem{
+  width: 100px;
+  height: 100px;
+}
+
+.span50{
+  margin-left:35%;
+  margin-right:35%;
+}
+
+.md-field {
+    border-bottom: 1px solid;
+}
+
+.md-drawer {
+  width: 250px !important;
+  max-width: calc(100vw - 125px);
+}
+
+.md-toolbar, .center .md-button, .md-app-drawer {
+  background-color: #006064 !important;
+  justify-content: center;
+  color:white;
+}
+
+/*.md-content {
+    width: 100%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}*/
+
+.md-list a ,  .md-list .md-divider {
+  color: white;
+}
+
+.md-table-cell-container a{
+  color: black
+}
+
+.md-divider{
+  border: 0.5px solid !important;
+}
+
+a:not(.md-button):hover {
+     text-decoration: none !important;
+}
+
+.active{
+  background-color: rgb(0, 67, 70) !important;
+}
+
+.md-app {
+  min-height: 500px;
+  border: 1px solid rgba(#000, .12);
+}
+
+.md-app-content {
+    border-left: 1px solid #006064 !important;
+    padding:0px !important;
+}
+
+.md-table-toolbar {
+    padding-left: 24px;
+    background-color: #ffffff !important;
+    color: black;
+}
+
+.md-card{
+    padding: 40px !important;
+}
+
+.margem20{
+  margin: 20px;
+}
+
+.right{
+      float: right;
+}
+
+.md-button-clean{
+  text-transform: none !important;
+}
